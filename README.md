@@ -4,8 +4,6 @@ My vs code setting for minimal visual clutter
 
 # Preview
 
-<img src="./resources/preview.jpg" alt="preview">
-
 <img src="./resources/preview2.jpg" alt="preview">
 
 
