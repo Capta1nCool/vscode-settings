@@ -1,6 +1,6 @@
 # Vs code settings
 
-My vs code setting for minimal theme visual clutter
+My vs code setting for minimal visual clutter
 
 # Preview
 
