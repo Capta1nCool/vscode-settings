@@ -1,7 +1,8 @@
 {
+    "editor.lineNumbers": "relative",
     "editor.minimap.enabled": false,
-    "editor.fontFamily": "cascadia code",
-    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono", 
+    "workbench.iconTheme": "material-icon-theme",
     "vim.useSystemClipboard": true,
     "explorer.openEditors.visible": 0,
     "markdown.preview.markEditorSelection": false,
@@ -22,29 +23,44 @@
     "workbench.tree.renderIndentGuides": "none",
     "editor.inlineSuggest.suppressSuggestions": true,
     "window.zoomLevel": -1,
-    "window.menuBarVisibility": "compact",
-    "window.commandCenter": false,
-    "workbench.layoutControl.enabled": false,
     "symbols.hidesExplorerArrows": false,
     "editor.renderLineHighlight": "none",
-    "workbench.statusBar.visible": false,
     "workbench.tips.enabled": false,
     "breadcrumbs.filePath": "off",
-    "breadcrumbs.enabled": false,
-    "apc.stylesheet": {
-        ".title-label > h2": "display: none",
-        ".editor-actions": "display: none",
-        ".nosidebar .inline-tabs-placeholder": "width: 75px",
-        ".pane-header": "padding: 0 8px",
-        ".pane-body": "padding: 3px",
-        ".split-view-view:first-child .pane-header": "display: none !important;",
-        ".monaco-list-row": "border-radius: 4px;",
-        ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
-    },
-    "editor.scrollbar.vertical": "hidden",
+    // "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
     "explorer.compactFolders": false,
-    "workbench.colorTheme": "One Dark Pro Flat",
     "window.titleBarStyle": "custom",
-    "workbench.activityBar.location": "hidden"
+    "material-icon-theme.folders.theme": "specific",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "workbench.colorTheme": "Moonlight II Italic",
+    "prettier.tabWidth": 3,
+    "git.confirmSync": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "svelte.enable-ts-plugin": true,
+    "window.commandCenter": false,
+    "code-runner.runInTerminal": true,
+    "workbench.preferredDarkColorTheme": "Material Theme Palenight",
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+    "workbench.activityBar.location": "hidden",
 }

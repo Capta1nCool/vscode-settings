@@ -1,6 +1,6 @@
-# Vs code settings
+# VS Code settings
 
-My vs code setting for minimal visual clutter
+My VS Code settings for a minimal & clean setup. 
 
 # Preview
 
@@ -9,10 +9,6 @@ My vs code setting for minimal visual clutter
 
 # Extensions
 
-[Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
+[Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 
-[Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
-
-[One dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
-[Noir Theme Set](https://marketplace.visualstudio.com/items?itemName=andrewberty.noir-theme-bundle)
+[Material Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
