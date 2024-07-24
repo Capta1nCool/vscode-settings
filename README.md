@@ -4,7 +4,7 @@ My VS Code settings for a minimal & clean setup.
 
 # Preview
 
-<img src="./resources/preview2.jpg" alt="preview">
+<img src="./resources/preview.png" alt="preview">
 
 
 # Extensions
